@@ -6,6 +6,6 @@ em parceria com o Bradesco.
 2 - Git e versionamento de codigo</br>
 
 3 - Sintaxe Basica do Java</br>
-    - Usos mais novos das estruturas Swicth, For, While e Do-While</br>
+    - Usos mais novos das estruturas Swicth, br.com.bradesco.sintaxebasica.exercicios.br.com.bradesco.sintaxebasica.teoria.For, br.com.bradesco.sintaxebasica.exercicios.br.com.bradesco.sintaxebasica.teoria.While e Do-br.com.bradesco.sintaxebasica.exercicios.br.com.bradesco.sintaxebasica.teoria.While</br>
 
 4 - Java Orientado a Objetos

@@ -1,3 +1,5 @@
+package br.com.bradesco.sintaxebasica.teoria;
+
 import java.util.Scanner;
 
 public class SwitchCase {

@@ -1,4 +1,4 @@
-package br.com.bradesco.exercicios;
+package br.com.bradesco.sintaxebasica.exercicios;
 
 import java.util.Scanner;
 

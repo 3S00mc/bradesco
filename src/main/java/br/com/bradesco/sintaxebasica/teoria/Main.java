@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package br.com.bradesco.sintaxebasica.teoria;
 
 public class Main {
     public static void main(String[] args) {
