@@ -10,7 +10,7 @@ public class SwitchCase {
         String message = switch (option) {
             case 1, 7 -> {
                 String weekend = option == 1 ? "Domingo" : "Sábado";
-                yield String.format("%s - Final de Semana", weekend);
+                yield String.format("%s - Final de Semana", weekend); // yield e a palavra reservada para representar uma saida ou retorno. Ja que a primeira linha e a condicao
             }
             case 2 -> "Segunda";
             case 3 -> "Terça";
